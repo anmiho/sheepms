@@ -1,10 +1,10 @@
-package com.mian.sheepms;
+package com.mian;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SheepmsApplicationTests {
+class SheepmsSystemApplicationTests {
 
     @Test
     void contextLoads() {

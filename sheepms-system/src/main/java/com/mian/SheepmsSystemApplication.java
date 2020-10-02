@@ -1,13 +1,13 @@
-package com.mian.sheepms;
+package com.mian;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SheepmsApplication {
+public class SheepmsSystemApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SheepmsApplication.class, args);
+        SpringApplication.run(SheepmsSystemApplication.class, args);
     }
 
 }
